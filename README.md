@@ -31,4 +31,15 @@ Holocron is a riveting AR-based game on the theme of Star Wars where the player 
 <img src="https://user-images.githubusercontent.com/77115160/130561291-70fc46ec-cbfe-44cc-9d66-ed6e24daf0e0.jpg" width="360" height="620">
 </div>   
 
-
+<br />
+<br />
+<div align ="center">
+   <h2>
+   
+   [Watch explanatory video](https://www.youtube.com/watch?v=n4ekrWde9-E) :movie_camera:
+      
+   </h2>
+   
+   </div>   
+   <br />
+<br />
