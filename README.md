@@ -24,9 +24,11 @@ Holocron is a riveting AR-based game on the theme of Star Wars where the player 
 <h3 align="center"> 
    Gallery 
 </h3>
-
-![Screenshot_20210824-103944_AugmentedXD](https://user-images.githubusercontent.com/77115160/130560935-eaf0d406-cb67-4657-99a6-ca0db63b7411.jpg)
-![Screenshot_20210824-104038_AugmentedXD](https://user-images.githubusercontent.com/77115160/130561009-1f808cfa-b970-4787-81d9-314f6d9f4654.jpg)
-![Screenshot_20210824-104131_AugmentedXD](https://user-images.githubusercontent.com/77115160/130560960-02358fda-cd2d-41fc-9e81-1f20b9a1effe.jpg)![Screenshot_20210824-104118_AugmentedXD](https://user-images.githubusercontent.com/77115160/130561291-70fc46ec-cbfe-44cc-9d66-ed6e24daf0e0.jpg)
+<div align ="center">
+<img src="https://user-images.githubusercontent.com/77115160/130560935-eaf0d406-cb67-4657-99a6-ca0db63b7411.jpg" width="360" height="620">
+<img src="https://user-images.githubusercontent.com/77115160/130561009-1f808cfa-b970-4787-81d9-314f6d9f4654.jpg" width="360" height="620">
+<img src="https://user-images.githubusercontent.com/77115160/130560960-02358fda-cd2d-41fc-9e81-1f20b9a1effe.jpg" width="360" height="620">
+<img src="https://user-images.githubusercontent.com/77115160/130561291-70fc46ec-cbfe-44cc-9d66-ed6e24daf0e0.jpg" width="360" height="620">
+</div>   
 
 
